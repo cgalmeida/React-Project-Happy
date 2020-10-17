@@ -21,6 +21,9 @@ Technologies that I used to develop this mobile client
 
 ## App Preview
 
+### Web 
+
+### Mobile
 
 ## How to contribute
 
