@@ -23,7 +23,7 @@ Technologies that I used to develop this mobile client
 
 ### Web 
 
-![alt text](https://github.com/cgalmeida/NLW03/blob/main/previewimgs/appPreview.png?raw=true)
+![alt text](https://github.com/cgalmeida/NLW03/blob/main/web/backend/uploads/1602950943994-appPreview.png?raw=true)
 
 
 
