@@ -1,4 +1,8 @@
-NLW#3 - OmniStack Track: Project "Happy". 
+<p align="center">
+      <img src="https://github.com/cgalmeida/NLW03/blob/main/web/src/images/map-marker.svg?raw=true" width="10%" alt="Happy Logo"/>
+</p>
+
+<h1 align="center">NLW#3 - OmniStack Track: Project "Happy". </h1>
 
 ## About the project
 
