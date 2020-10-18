@@ -1,13 +1,20 @@
+NLW#3 - OmniStack Track: Project "Happy". 
+
 ## About the project
+
+Next Level Week, third edition, project "Happy". This app helps people find volunteer opportunity!
 
 ## Technologies
 
-Technologies that I used to develop this mobile client
+Technologies that I used to develop this project:
 
 - [ReactJS](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [React Native](https://reactnative.dev/)
 - [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)
+- [SQLite3](https://../)
+- [Expo](https://expo.io/)
+
 
 ## Getting started
 
